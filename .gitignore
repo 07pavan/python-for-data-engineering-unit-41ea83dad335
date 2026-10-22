@@ -1,0 +1,14 @@
+
+
+
+# >>> eval8 (managed) >>>
+.vscode/
+# <<< eval8 (managed) <<<
+
+# >>> project guide (managed) >>>
+node_modules/
+vendor/
+.venv/
+__pycache__/
+*.log
+# <<< project guide (managed) <<<
